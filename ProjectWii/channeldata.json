@@ -1,0 +1,7 @@
+{
+  "id": "warpcorepwchannel",
+  "title": "Warp Core Discord",
+  "assets": "customchannels/banner/",
+  "channelart": "customchannels/menuart/",
+  "target": "//discord.gg/MvZFgzMZMY"
+}
