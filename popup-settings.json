@@ -1,8 +1,8 @@
 {
   "Popup": {
-    "ShowPopup": "false",
-    "PopupMessage": "If your seeing this popup your This is probably a glitch",
-    "PopupTitle": "Unkown Glitch",
+    "ShowPopup": "true",
+    "PopupMessage": "Impact Has been remade with proper credits! <br><br> -The Warp Core Team",
+    "PopupTitle": "Whats New!",
     "AllowClosing": true
   }
 }
