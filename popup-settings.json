@@ -1,6 +1,6 @@
 {
   "Popup": {
-    "ShowPopup": "true",
+    "ShowPopup": "false",
     "PopupMessage": "Impact Has been remade with proper credits! <br><br> -The Warp Core Team",
     "PopupTitle": "Whats New!",
     "AllowClosing": true
